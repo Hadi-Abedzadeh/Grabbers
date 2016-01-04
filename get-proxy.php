@@ -11,6 +11,7 @@
 *                                     						 	 	
 * Open this file on web browser                                     
 */
+set_time_limit(0);
 error_reporting(0);
 require_once('PHP_Simple_HTML_DOM.php');
 $page01 = file_get_html("https://proxy-list.org/english/index.php?p=1");
