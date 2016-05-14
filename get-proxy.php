@@ -1,16 +1,17 @@
 <?php
-/**							 					   			         
+/**                                                                  
  *  _____                      _____           _     _               
  * |  __ \                    / ____|         | |   | |              
  * | |__) | __ _____  ___   _| |  __ _ __ __ _| |__ | |__   ___ _ __ 
  * |  ___/ '__/ _ \ \/ / | | | | |_ | '__/ _` | '_ \| '_ \ / _ \ '__|
  * | |   | | | (_) >  <| |_| | |__| | | | (_| | |_) | |_) |  __/ |   
  * |_|   |_|  \___/_/\_\\__, |\_____|_|  \__,_|_.__/|_.__/ \___|_|   
- *                       __/ | Hadi Abedzadeh                        
+ *                       __/ | Written by Hadi Abedzadeh             
  *                      |___/                                        
- *                                     						 	 	 
+ *                                                                   
  * Open this file on web browser or console                          
  */
+// Modifications by DRS David Soft <David@Refoua.me>
 set_time_limit(0);
 error_reporting(0);
 chdir(dirname(__FILE__));
